@@ -1,0 +1,23 @@
+transformers
+transformers[sentencepiece]
+datasets
+sacrebleu       #for machine translation evaluation
+rouge_score      #for summarization evaluation
+py7zr
+pandas
+nltk
+tqdm
+PyYAML
+matplotlib
+torch            #insatll GPU version if available
+notebook           #for running Jupyter notebooks
+boto3
+mypy-boto3-s3
+python-box==6.0.2
+ensure==1.0.2
+fastapi==0.78.0
+uvicorn==0.18.2
+Jinja2==3.1.2
+
+-e .
+
